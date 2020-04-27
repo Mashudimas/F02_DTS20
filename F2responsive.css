@@ -59,10 +59,8 @@
   }
 
   .top-wrapper {    
-    background-image: url("../images/slider-startup.png");
-    background-position: top right;
     text-align: left;
-    background-color: #0d50aa;
+    background-color: #006400;
   }
   
   .header-right {
