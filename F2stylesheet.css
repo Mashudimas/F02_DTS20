@@ -108,6 +108,19 @@ a {
   font-family: Montserrat, sans-serif;
 }
 
+.signup {
+  background-color: #239b76;
+}
+
+.facebook {
+  background-color: #3b5998;
+  margin-right: 10px;
+}
+
+.twitter {
+  background-color: #55acee;
+}
+
 .btn-wrapper {
   text-align: left;
   margin: 20px 0;
