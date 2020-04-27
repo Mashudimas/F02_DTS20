@@ -62,7 +62,6 @@
   }
   
   .header-right {
-    width: 100%;
     display: none;
   }
 
@@ -151,8 +150,7 @@
   .logo {
     width: 140px;
   }
-  .topnav .nav-right a {
-    width: 100%;
+  .topnav .nav-right a {    
     display: none;
   }
   .topnav a.icon {
