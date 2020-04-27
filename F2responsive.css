@@ -39,7 +39,6 @@
   }
 }
 
-
 @media all and (max-width: 670px) {
   .team {
     width: 100%;
@@ -58,7 +57,8 @@
     margin-bottom: 10px;
   }
 
-  .top-wrapper {    
+  .top-wrapper {
+    background-position: top right;
     text-align: left;
     background-color: #006400;
   }
